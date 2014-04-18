@@ -1,3 +1,21 @@
-<div>
-    THIS IS Gallery
+<div class="gallery">
+    <ul>
+        <li ng-repeat="carouselSource in gallerySouce" on-finish-ng-repeat="onNgRepeatComplete($index + 1)" id="{{$index + 1}}">
+            <img src="img/{{carouselSource.image}}.png"/>
+                <div class="carouselTitle">{{carouselSource.title}}</div>
+        </li>
+    </ul>
+    <div class="next">Next<span class="p10"> > </span></div>
+    <div class="prev"><span class="p10"> < </span>Prev</div>
+    <div class="">
+        <div class="flex-container">
+            <div class="flex-item" ng-repeat="picture in allPictures">
+                <div class="gallery-allpictures" >
+                    <img ng-src="img/{{picture.image}}.png" class="gallery-allpictures-picture"/>
+                    <div class="gallery-allpictures-subtitle">{{picture.title}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </div>

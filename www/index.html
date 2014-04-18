@@ -4,32 +4,36 @@
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
     <title>ionicRapidProto</title>
-<!--
-    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">-->
 
-    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above  -->
-    <link href="css/ionic.app.css" rel="stylesheet">
+    <link href="css/ionic.app.min.css" rel="stylesheet">
 
-
-    <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
 
-    <!-- cordova script (this will be a 404 during development) -->
-    <!--<script src="cordova.js"></script>-->
 
-    <!-- your app's js -->
+    <script src="lib/jquery-2.0.2.min.js"></script>
+    <script src="lib/jquery.roundabout.min.js"></script>
+    <script src="lib/raphael.1.5.2.min.js"></script>
+    <script src="lib/g.raphael.0.4.1.min.js"></script>
+    <script src="lib/g.custom-line-min.js"></script>
+
+    <script src="cordova.js"></script>
+
+
     <script src="js/app.js"></script>
-    <script src="js/controllers/controllers.js"></script>
-    <script src="js/services/services.js"></script>
-  </head>
-  <body ng-app="ionicRapidProto" animation="slide-left-right-ios7" ng-controller="rootController">
+    <script src="js/services/chartDataService.js"></script>
+    <script src="js/services/backendConnectorService.js"></script>
 
-<!--    <ion-nav-bar class="bar-stable nav-title-slide-ios7">
-      <ion-nav-back-button class="button-icon icon ion-chevron-left">
-        Back
-      </ion-nav-back-button>
-    </ion-nav-bar>-->
+
+    <script src="js/controllers/rootControllers.js"></script>
+    <script src="js/controllers/statsController.js"></script>
+    <script src="js/controllers/galleryController.js"></script>
+    <script src="js/controllers/homeController.js"></script>
+
+    <script src="js/directives/directives.js"></script>
+  </head>
+
+  <body ng-app="ionicRapidProto" animation="slide-left-right-ios7" ng-controller="RootController">
+
     <ion-view>
 
         <h1 class="app-header">
@@ -39,22 +43,16 @@
             <div class="home-floating-pane-inner">
                 <ion-tabs>
 
-
-                    <!-- Pets Tab -->
-                    <ion-tab title="Home" icon="icon ion-home" ui-sref="home">
+                    <ion-tab icon="icon ion-home" ui-sref="home">
                     </ion-tab>
 
-
-                    <!-- Adopt Tab -->
-                    <ion-tab title="STATS" ui-sref="stats">
+                    <ion-tab title="STATS" ui-sref="stats" class="custom-active">
                     </ion-tab>
 
-
-                    <!-- About Tab -->
-                    <ion-tab title="STREAM" ui-sref="stream">
+                    <ion-tab title="STREAM" ui-sref="stream" class="custom-active" ng-if="isStreamAvailable()">
                     </ion-tab>
 
-                    <ion-tab title="GALLERY" ui-sref="gallery">
+                    <ion-tab title="GALLERY" ui-sref="gallery" class="custom-active">
                     </ion-tab>
 
 
@@ -64,27 +62,10 @@
                         <div ui-view></div>
                     </div>
                 </div>
-                <!--<ion-tabs class="tabs">
-                    <div class="tab-item icon ion-home" title="HOME">
-                        <i class="icon ion-home">
 
-                        </i>
-                    </div>
-                    <div class="tab-item" title="HOME1">
-                        Home
-
-                    </div>
-                    <div class="tab-item" title="HOME2">
-                        Favorites
-                    </div>
-                    <div class="tab-item" title="HOME3">
-                        Settings
-                    </div>
-                </ion-tabs>-->
             </div>
         </div>
     </ion-view>
 
-    <!--<ion-nav-view></ion-nav-view>-->
   </body>
 </html>

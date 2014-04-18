@@ -1,6 +1,16 @@
 
-angular.module('ionicRapidProto', ['ionic', 'ionicRapidProto.controllers', 'ionicRapidProto.services'])
+angular.module('ionicRapidProto', [
+        'ionic',
+        'ionicRapidProto.directives',
 
+        'ionicRapidProto.services.backendConnector',
+        'ionicRapidProto.services.chartData',
+
+        'ionicRapidProto.controllers.galleryController',
+        'ionicRapidProto.controllers.homeController',
+        'ionicRapidProto.controllers.rootController',
+        'ionicRapidProto.controllers.statsController'
+])
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     if(window.StatusBar) {
@@ -9,40 +19,25 @@ angular.module('ionicRapidProto', ['ionic', 'ionicRapidProto.controllers', 'ioni
     }
   });
 })
-.controller('rootController', function($scope) {
-   $scope.title = "My Rapid Proto!"
-})
 
 .config(function($stateProvider, $urlRouterProvider) {
-
   $stateProvider
 
-    // setup an abstract state for the tabs directive
     .state('index', {
       url: "/",
       templateUrl: "index.html"
     })
 
-    // Each tab has its own nav history stack:
-
-   /* .state('tab.dash', {
-      url: '/tab',
-      views: {
-        'tab-dash': {
-          templateUrl: 'templates/tab-dash.html',
-          controller: 'DashCtrl'
-        }
-      }
-    })*/
     .state('home', {
           url: "/home",
           templateUrl: "templates/home.html",
-          controller: 'homeController'
+          controller: 'HomeController'
       })
 
     .state('stats', {
           url: "/stats",
-          templateUrl: "templates/stats.html"
+          templateUrl: "templates/stats.html",
+          controller:"StatsController"
       })
 
     .state('stream', {
@@ -52,12 +47,12 @@ angular.module('ionicRapidProto', ['ionic', 'ionicRapidProto.controllers', 'ioni
 
     .state('gallery', {
           url: "/gallery",
-          templateUrl: "templates/gallery.html"
+          templateUrl: "templates/gallery.html",
+          controller: 'GalleryController'
       })
 
     $urlRouterProvider.otherwise('/home',{
-        url:"/home",
-        controller: 'rootController'
+        url:"/home"
     });
 });
 

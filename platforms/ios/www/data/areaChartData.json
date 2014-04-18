@@ -1,0 +1,44 @@
+[
+    {
+        "russia": "303",
+        "usa": "120",
+        "newZealand": "20",
+        "time": "6"
+    },
+    {
+        "russia": "230",
+        "usa": "420",
+        "newZealand": "140",
+        "time": "7"
+    },
+    {
+        "russia": "160",
+        "usa": "230",
+        "newZealand": "303",
+        "time": "8"
+    },
+    {
+        "russia": "370",
+        "usa": "140",
+        "newZealand": "90",
+        "time": "9"
+    },
+    {
+        "russia": "190",
+        "usa": "250",
+        "newZealand": "103",
+        "time": "10"
+    },
+    {
+        "russia": "340",
+        "usa": "360",
+        "newZealand": "505",
+        "time": "11"
+    },
+    {
+        "russia": "190",
+        "usa": "270",
+        "newZealand": "530",
+        "time": "12"
+    }
+]

@@ -1,0 +1,35 @@
+
+.lineChartWrapper,.areaChartWrapper {
+  margin: 15px auto;
+  width: 500px;
+  height: 200px;
+  text-align: center;
+}
+
+select.line-green {
+  background-color: #f5f5f5;
+  border-bottom: 5px solid #008000;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 16em;
+  font-size: 1em;
+  font-family: procentroslabmedium;
+}
+
+select.line-blue {
+  background-color: #f5f5f5;
+  border-bottom: 5px solid cornflowerblue;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 16em;
+  font-size: 1em;
+  font-family: procentroslabmedium;
+}
+.line-green > option,.line-blue > option{
+  font-size: 1em;
+  font-family: procentroslabmedium;
+  padding: 10px;
+}
+.carouselTitle{
+  display: none;
+}

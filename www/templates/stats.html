@@ -1,3 +1,12 @@
 <div>
-    THIS IS STATS
+    <div id="areaChart" class="areaChartWrapper"></div>
+    <h3>Visitors</h3>
+    <div class="item-input item-select">
+        <select class="line-green" ng-options="size as size.name for size in lineChartOptions "
+                ng-model="selectedItemX1" ng-change="updateX1()"></select>
+        <select class="line-blue" ng-options="size as size.name for size in lineChartOptions "
+                ng-model="selectedItemX2" ng-change="updateX2()"></select>
+    </div>
+
+    <div id="lineChart" class="lineChartWrapper"></div>
 </div>

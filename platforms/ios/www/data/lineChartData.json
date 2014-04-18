@@ -1,0 +1,51 @@
+[
+    {
+        "noOfVisitors": "30",
+        "returnedVisitors": "10",
+        "leftVisitors": "0",
+        "newVisitors": "10",
+        "time": "0"
+    },
+    {
+        "noOfVisitors": "20",
+        "returnedVisitors": "20",
+        "leftVisitors": "10",
+        "newVisitors": "9",
+        "time": "1"
+    },
+    {
+        "noOfVisitors": "60",
+        "returnedVisitors": "30",
+        "leftVisitors": "30",
+        "newVisitors": "8",
+        "time": "2"
+    },
+    {
+        "noOfVisitors": "70",
+        "returnedVisitors": "40",
+        "leftVisitors": "0",
+        "newVisitors": "7",
+        "time": "3"
+    },
+    {
+        "noOfVisitors": "90",
+        "returnedVisitors": "50",
+        "leftVisitors": "10",
+        "newVisitors": "9",
+        "time": "4"
+    },
+    {
+        "noOfVisitors": "40",
+        "returnedVisitors": "60",
+        "leftVisitors": "05",
+        "newVisitors": "10",
+        "time": "5"
+    },
+    {
+        "noOfVisitors": "10",
+        "returnedVisitors": "70",
+        "leftVisitors": "30",
+        "newVisitors": "5",
+        "time": "6"
+    }
+]

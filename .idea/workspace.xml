@@ -4,46 +4,116 @@
     <list default="true" id="87254015-91ae-4c87-a541-fc1261927ec9" name="Default" comment="" />
     <ignored path="ionicRapidProto.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404627844" ignored="false" />
-    <file path="/a.dummy" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397297273832" ignored="false" />
-    <file path="/Dummy.txt" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397405147294" ignored="false" />
+    <file path="/index.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397843972476" ignored="false" />
+    <file path="/a.dummy" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397839908118" ignored="false" />
+    <file path="/Dummy.txt" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397662449975" ignored="false" />
     <file path="/tabs.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397299863300" ignored="false" />
     <file path="/tab-account.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397299925016" ignored="false" />
-    <file path="/ionic.app.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397412911249" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397402672582" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
+    <file path="/ionic.app.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397843718691" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397846192309" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397846192309" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397846192309" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/config.xml" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397846192309" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-variables.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397305158875" ignored="false" />
     <file path="/home.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397412803548" ignored="false" />
-    <file path="/stats.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397390433558" ignored="false" />
+    <file path="/stats.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397841404303" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic-angular.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397394901252" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.bundle.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397394901252" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic-angular.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397394901252" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.bundle.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397394901252" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.bundle.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397401080186" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.bundle.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic-angular.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.bundle.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/js/ionic.bundle.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
     <file path="/stream.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397396051232" ignored="false" />
-    <file path="/gallery.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397397647359" ignored="false" />
-    <file path="/app.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397406929294" ignored="false" />
+    <file path="/gallery.html" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397842369023" ignored="false" />
+    <file path="/app.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397839192386" ignored="false" />
     <file path="/rootController.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397399935638" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/css/ionic.app.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/css/ionic.app.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_checkbox.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397401080186" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/css/ionic.app.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_reset.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397401080186" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/css/ionic.app.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_toggle.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397401080186" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_reset.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_scaffolding.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_scaffolding.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397404417309" ignored="false" />
-    <file path="/controllers.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397408996083" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/css/ionic.app.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/css/ionic.app.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_checkbox.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/css/ionic.app.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/css/ionic.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_reset.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/css/ionic.app.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_toggle.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/css/ionic.min.css" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_reset.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397781812428" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_scaffolding.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_scaffolding.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="/controllers.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397789903214" ignored="false" />
     <file path="/home.json" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397409042718" ignored="false" />
-    <file path="/services.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397408020414" ignored="false" />
+    <file path="/services.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397756081736" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_menu.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_animations.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_tabs.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_button.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_bar.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_modal.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_form.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_range.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_radio.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_button-bar.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_util.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_list.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_type.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_badge.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_grid.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_platform.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_items.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_popup.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_checkbox.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_slide-box.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_toggle.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_split-pane.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_form.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_range.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_radio.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_split-pane.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/_action-sheet.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_button-bar.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_util.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_action-sheet.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_list.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_type.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_badge.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_grid.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_platform.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_items.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_popup.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_slide-box.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_menu.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_animations.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-font.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-icons.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-font.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/ionicons/_ionicons-animation.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_tabs.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_button.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_bar.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397495500653" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/scss/_modal.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397529007352" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/src/public/app/index.jade" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397540205058" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/bower.json" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397549880867" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/src/authenticated/app/touch01/touch0105/views/touch0105.jade" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397549880867" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/src/authenticated/app/touch01/touch0115/scripts/controllers/touch0115Controller.coffee" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397549879659" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/src/development/bus/scripts/bus.coffee" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397549880867" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/touch/src/authenticated/app/touch01/touch0105/scripts/controllers/touch0105Controller.coffee" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397550028371" ignored="false" />
+    <file path="/gallery.json" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397571489611" ignored="false" />
+    <file path="/line1.json" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397753246830" ignored="false" />
+    <file path="/g.custom-line-min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397755347691" ignored="false" />
+    <file path="/gallerySource.json" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397785872899" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/jquery-2.0.2.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.bundle.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic-angular.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic-angular.min.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397798243984" ignored="false" />
+    <file path="/galleryController.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397842831714" ignored="false" />
+    <file path="/statsController.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397841486723" ignored="false" />
+    <file path="/README.md" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397843942893" ignored="false" />
+    <file path="/rootControllers.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397843997396" ignored="false" />
+    <file path="/root.scss" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397845520229" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/js/app.js" changelist="87254015-91ae-4c87-a541-fc1261927ec9" time="1397846192309" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,91 +133,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="rootControllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers/rootControllers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="41" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homeController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/controllers/homeController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionic.app.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="-6.3461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="36" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/gallery.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="1" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stats.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/stats.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="root.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/root.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="1" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.78688526">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/fonts.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="1" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="12" selection-start="1248" selection-end="1248" vertical-scroll-proportion="-1.0759493">
+            <state line="51" column="107" selection-start="1728" selection-end="1745" vertical-scroll-proportion="-12.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/gallery.html">
+      <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/controllers/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="29" selection-start="541" selection-end="557" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/services/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="50" selection-start="712" selection-end="712" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rootController.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/controllers/rootController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="75" selection-start="76" selection-end="102" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/data/home.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="260" selection-end="276" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="27" selection-start="378" selection-end="396" vertical-scroll-proportion="-7.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ionic.app.scss" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="16" selection-start="3904" selection-end="3904" vertical-scroll-proportion="0.9528302">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="27" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -163,29 +233,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/main.js" />
-        <option value="$PROJECT_DIR$/www/bootstrap.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/www/templates/tab-account.html" />
-        <option value="$PROJECT_DIR$/www/templates/stats.html" />
-        <option value="$PROJECT_DIR$/www/view/tabs.html" />
-        <option value="$PROJECT_DIR$/www/templates/stream.html" />
+        <option value="$PROJECT_DIR$/www/data/gallery1.json" />
+        <option value="$PROJECT_DIR$/www/data/gallery2.json" />
+        <option value="$PROJECT_DIR$/www/data/gallery3.json" />
+        <option value="$PROJECT_DIR$/www/data/gallerySource.json" />
         <option value="$PROJECT_DIR$/www/templates/gallery.html" />
-        <option value="$PROJECT_DIR$/www/js/controllers/rootController.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/js/app.js" />
-        <option value="$PROJECT_DIR$/www/js/services/services.js" />
-        <option value="$PROJECT_DIR$/www/js/controllers/controllers.js" />
-        <option value="$PROJECT_DIR$/www/data/home.json" />
-        <option value="$PROJECT_DIR$/www/templates/home.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers/galleryController.js" />
+        <option value="$PROJECT_DIR$/scss/home.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/scss/fonts.scss" />
+        <option value="$PROJECT_DIR$/scss/stats.scss" />
+        <option value="$PROJECT_DIR$/scss/gallery.scss" />
         <option value="$PROJECT_DIR$/scss/ionic.app.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/controllers/rootControllers.js" />
+        <option value="$PROJECT_DIR$/scss/root.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="21" />
     <option name="y" value="22" />
-    <option name="width" value="1420" />
+    <option name="width" value="1419" />
     <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -214,7 +284,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,36 +351,6 @@
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionicRapidProto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionicRapidProto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -371,6 +410,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionicRapidProto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionicRapidProto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -389,25 +450,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionicRapidProto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionicRapidProto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,6 +470,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -435,11 +479,13 @@
     <property name="options.lastSelected" value="settings" />
     <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/touch" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/data" />
+      <recent name="$PROJECT_DIR$/www/lib" />
       <recent name="$PROJECT_DIR$/www/img" />
       <recent name="$PROJECT_DIR$/www/lib/ionic/fonts" />
       <recent name="$PROJECT_DIR$/www/lib/requirejs" />
@@ -461,7 +507,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -495,25 +541,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="807" extended-state="0" />
+    <frame x="21" y="22" width="1419" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.6710335" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6710335" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -577,114 +623,136 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/.bin/r.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2577" column="20" selection-start="100040" selection-end="100040" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/ionic.app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6334" column="0" selection-start="167374" selection-end="167374" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1397412847000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/tab-dash.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/stats.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="31" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/templates/stream.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/lib/ionic/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers/rootController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
+        <state line="11" column="68" selection-start="551" selection-end="562" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/services/services.js">
+    <entry file="file://$PROJECT_DIR$/www/js/controllers/galleryController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="50" selection-start="712" selection-end="712" vertical-scroll-proportion="0.0">
+        <state line="84" column="51" selection-start="2780" selection-end="2780" vertical-scroll-proportion="-22.90909">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="75" selection-start="76" selection-end="102" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controllers/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="541" selection-end="557" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/data/home.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="260" selection-end="276" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="12" selection-start="1248" selection-end="1248" vertical-scroll-proportion="-1.0759493">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="27" selection-start="378" selection-end="396" vertical-scroll-proportion="-7.5">
+        <state line="12" column="45" selection-start="378" selection-end="396" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/ionic.app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6312" column="12" selection-start="166616" selection-end="166616" vertical-scroll-proportion="9.961538">
+          <folding>
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397846087000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/stats.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/gallery.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="1" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="161" column="16" selection-start="3904" selection-end="3904" vertical-scroll-proportion="0.9528302">
+        <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="-6.3461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="36" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="107" selection-start="1728" selection-end="1745" vertical-scroll-proportion="-12.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers/rootControllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controllers/homeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="27" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/root.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="1" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.78688526">
           <folding />
         </state>
       </provider>
